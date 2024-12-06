@@ -15,9 +15,10 @@ This project should only be used for educational purposes, such as controlled ex
 - cryptography library: Install the library with the following command:
 ```bash
 pip install cryptography
-Project Setup
 ```
-2. Clone the repository:
+
+2. Project Setup
+Clone the repository:
 ```bash
 git clone https://github.com/your-username/your-repository.git
 cd your-repository
@@ -68,7 +69,7 @@ git checkout -b my-branch
 ```
 Commit your changes:
 ```bash
-git commit -m "Description of changes"
+git commit -m "Educational Ransomware Project"
 ```
 Push the changes:
 ```bash
