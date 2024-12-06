@@ -79,8 +79,9 @@ git push origin my-branch
 
 ## Contact
 If you have questions or suggestions, feel free to contact me:
-Email: nicco.dinittis@gmail.com
-GitHub: AlucinoX
+
+- Email: nicco.dinittis@gmail.com
+- GitHub: AlucinoX
 
 ## Final Note
 **The purpose of this project is purely educational. Using this code for malicious activities is strictly prohibited and goes against ethical principles.**
